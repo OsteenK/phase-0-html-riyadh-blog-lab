@@ -24,12 +24,12 @@ body {
   background: rgba(255,255,255,.85);
 }
 h5 {
-  font-size: 2.5em
-  font-family: 'Gabriela', serif;
+  font-size: 1.5em;
+  margin-top: .5em;
   
 }
 
-h1, h5 {
+h1, h2 {
   font-family: 'Gabriela', serif;
   color: #fff;
 }
@@ -40,16 +40,20 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em;
-  margin-top: .5em;
+  font-size: 2.5em
+  font-family: 'Gabriela', serif;
 }
+
 
 h3 {
-  font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
 }
 
+h4{
+  font-size: 1.2em;
+  margin-top: .4em;
+}
 img {
   max-width: 100%;
   width: 100%;
